@@ -4,7 +4,7 @@ https://github.com/skypse/Projeto-42-JavaScript-Weight-Converter/assets/97822775
 
 Um conversor de peso simples que converte libras para quilogramas usando HTML, CSS e JavaScript
 
-## ⚙️ Funcionalidades Principais
+## ⚙️ Funcionalidades Principais:
 - Conversão instantânea de libras para quilogramas
 - Validação do valor de entrada para garantir que seja um número válido e maior que zero
 - Exibição de mensagens de erro para valores de entrada inválidos
